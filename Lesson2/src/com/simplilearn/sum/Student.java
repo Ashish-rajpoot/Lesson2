@@ -47,7 +47,7 @@ public class Student {
 		int StudentId = scanner.nextInt();
 		Student student3 = new Student(name, StudentId, true);
 		System.out.println(student3);
-		System.out.println("Recently add this project to github");
+		System.out.println("Recently add this project to github000");
 	}
 
 }
